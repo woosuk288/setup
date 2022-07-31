@@ -13,8 +13,7 @@ curl https://codeload.github.com/woosuk288/setup/tar.gz/main | tar -xz --strip=1
 Install it and run:
 
 ```sh
-npm install
-npm run dev
+cd nextjs12-mui5-ts && npm install && npm run dev
 ```
 
 or:
